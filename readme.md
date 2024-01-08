@@ -1,3 +1,3 @@
 #  Репозиторий с публичной страницей
 
-##  https://natali-1981.github.io/sait_2 /
+##  https://annabnt2.github.io/mySait2/
